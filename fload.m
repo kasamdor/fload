@@ -1,4 +1,4 @@
-% The function is more faster analog of default MATLAB load function. 
+% The function is a much faster analog of default MATLAB load function. 
 % Inputs:
 % * fp - file path
 % * hl - number of header lines to ignore
